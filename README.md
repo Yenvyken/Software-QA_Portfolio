@@ -21,6 +21,7 @@ I am building my expertise through real-world projects and continuous learning, 
 
 
 # Tools
+-Test Documentation
 
 
 ## Featured Projects
@@ -33,7 +34,7 @@ I am building my expertise through real-world projects and continuous learning, 
 
   
 
-2. **[Quickteller Manual Testing](https://github.com/yourusername/Quickteller_Manual_Tests)**  
+2. **[Quickteller Manual Testing](https://github.com/Yenvyken/Quickteller_Manual_Test)**  
    Comprehensive manual testing for a payment solution.  
    - **Artifacts**: Test cases, bug reports, and test summaries.  
    - **Focus**: Functional and usability testing.  
