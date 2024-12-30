@@ -16,19 +16,28 @@ I am building my expertise through real-world projects and continuous learning, 
 # SKILLS
 
 - Manual testing
-- 
+- Automation testing
+- API testing
+- Test Documentation
+- Project Documentation
 
 
 
 # Tools
--Test Documentation
+
+- **Test Documentation**: Test rail, MS Word or Google Docs, Excel or Google Sheets
+- **Project Management**: JIRA, Trello
+- **Automation Testing**: Selenium
+- **API Testing**:Postman
+- **Development**: Git, Github, Jenkins, Javascript
+  
 
 
 ## Featured Projects
 
 1. **[Konga Automation Tests](https://github.com/Yenvyken/Konga_Automation_Web_Test)**  
    Automated testing scripts for an e-commerce platform.  
-   - **Tools**: Selenium, TestNG, Maven  
+   - **Tools**: Selenium, TestNG, Maven,  
    - **Focus**: Login, ordering flow, payment validation  
    - **Highlights**: Integrated with Jenkins for CI/CD.
 
@@ -36,7 +45,7 @@ I am building my expertise through real-world projects and continuous learning, 
 
 2. **[Quickteller Manual Testing](https://github.com/Yenvyken/Quickteller_Manual_Test)**  
    Comprehensive manual testing for a payment solution.  
-   - **Artifacts**: Test cases, bug reports, and test summaries.  
+   - **Test Documentation**: Test plan, Test cases, bug report, and test summary.  
    - **Focus**: Functional and usability testing.  
 
 3. **[API Testing with Postman](https://github.com/Yenvyken/API_Testing_Postman)**  
