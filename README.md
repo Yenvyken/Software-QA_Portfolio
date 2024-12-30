@@ -17,3 +17,28 @@ I am building my expertise through real-world projects and continuous learning, 
 
 - Manual testing
 - 
+
+
+
+# Tools
+
+
+## Featured Projects
+
+1. **[Konga Automation Tests](https://github.com/yourusername/Konga_Automation_Tests)**  
+   Automated testing scripts for an e-commerce platform.  
+   - **Tools**: Selenium, TestNG, Maven  
+   - **Focus**: Login, ordering flow, payment validation  
+   - **Highlights**: Integrated with Jenkins for CI/CD.
+
+  
+
+2. **[Quickteller Manual Testing](https://github.com/yourusername/Quickteller_Manual_Tests)**  
+   Comprehensive manual testing for a payment solution.  
+   - **Artifacts**: Test cases, bug reports, and test summaries.  
+   - **Focus**: Functional and usability testing.  
+
+3. **[API Testing with Postman](https://github.com/yourusername/API_Testing_Postman)**  
+   Validated API endpoints for an application.  
+   - **Tools**: Postman, Newman  
+   - **Focus**: GET, POST, and DELETE requests.
