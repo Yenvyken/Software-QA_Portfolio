@@ -38,7 +38,7 @@ I am building my expertise through real-world projects and continuous learning, 
    - **Artifacts**: Test cases, bug reports, and test summaries.  
    - **Focus**: Functional and usability testing.  
 
-3. **[API Testing with Postman](https://github.com/yourusername/API_Testing_Postman)**  
+3. **[API Testing with Postman](https://github.com/Yenvyken/API_Testing_Postman)**  
    Validated API endpoints for an application.  
    - **Tools**: Postman, Newman  
    - **Focus**: GET, POST, and DELETE requests.
