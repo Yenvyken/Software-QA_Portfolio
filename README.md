@@ -1,6 +1,6 @@
 # My QA Testing Portfolio
 
-Welcome to my portfolio of software quality assurance projects. Below is an overview of my work in manual and automation testing:
+Welcome to my portfolio of software quality assurance projects. Below is an overview of my experience:
 
 # About me
  
