@@ -4,7 +4,7 @@ Welcome to my portfolio of software quality assurance projects. Below is an over
 
 # About me
  
-My name is Kehinde Oloyede. I am a positive and solution-driven professional with a unique blend of analytical expertise, structured problem-solving abilities, and excellent communication skills. Through practical projects, including testing platforms like Quickteller, Printivo, and Techteenz and automating workflows for Konga’s e-commerce platform, I have developed strong skills in manual and automated testing.
+My name is Kehinde Oloyede. I am a positive and solution-driven professional with a unique blend of analytical expertise, structured problem-solving abilities, and excellent communication skills. Through practical projects, including testing platforms like Quickteller, Printivo, and Techteenz and automating workflows for Konga’s e-commerce platform, I have developed strong manual and automation testing skills.
 
 I am proficient in tools like Selenium, JIRA, Postman API, and Java, I excel in designing and executing test cases, logging and managing defects, and implementing testing strategies within the Software Development Life Cycle (SDLC) and Software Testing Life Cycle (STLC). I also have experience integrating automated testing into CI/CD pipelines to enhance testing efficiency and reliability.
 
