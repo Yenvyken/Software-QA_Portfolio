@@ -25,7 +25,7 @@ I am building my expertise through real-world projects and continuous learning, 
 
 ## Featured Projects
 
-1. **[Konga Automation Tests](https://github.com/yourusername/Konga_Automation_Tests)**  
+1. **[Konga Automation Tests](https://github.com/Yenvyken/Konga_Automation_Web_Test)**  
    Automated testing scripts for an e-commerce platform.  
    - **Tools**: Selenium, TestNG, Maven  
    - **Focus**: Login, ordering flow, payment validation  
