@@ -54,8 +54,8 @@ I am building my expertise through real-world projects and continuous learning, 
    - **Focus**: Testing GET, POST, and DELETE requests, verifying response codes, and creating test collections for automation.
   
      
-4.  **[Printivo web testing](https://github.com/Yenvyken/PRNTIVO-PROJECT)** 
-   Functional and usability testing for a print-on-demand service.
+4.  **[Printivo web testing](https://github.com/Yenvyken/PRNTIVO-PROJECT)**
+    Functional and usability testing for a print-on-demand service.
    - **Test Documentation**: Detailed Test plan, Test case, Bug report, and Test summary report.
    - **Scope**: Testing order placement, design uploads, and checkout processes.
    - **Highlights**: Identified key usability issues and provided actionable recommendations to improve customer experience.
