@@ -25,7 +25,7 @@ I am building my expertise through real-world projects and continuous learning, 
 
 # Tools
 
-- **Test Documentation**: Test rail, MS Word or Google Docs, Excel or Google Sheets
+- **Test Documentation**:MS Word or Google Docs, Excel or Google Sheets
 - **Project Management**: JIRA, Trello
 - **Automation Testing**: Selenium
 - **API Testing**:Postman
